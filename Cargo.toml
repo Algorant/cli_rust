@@ -1,5 +1,5 @@
 [workspace]
-members = [ "echo_rs",
+members = [ "cat_rs", "echo_rs",
     "hello"
 ]
 
